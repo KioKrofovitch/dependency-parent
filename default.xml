@@ -6,6 +6,6 @@
   <default revision="refs/heads/master"
            remote="github" />
 
-  <project name="KioKrofovitch/dependency-parent" remote="github" path="main"/>
-
+  <project name="KioKrofovitch/dependency-sample" remote="github" path="dependency-sample"/>
+  <project name="KioKrofovitch/dependency-sample-library" remote="github" path="dependency-sample-library"/>
 </manifest>
