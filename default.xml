@@ -7,5 +7,5 @@
            remote="github" />
 
   <project name="KioKrofovitch/dependency-sample" remote="github" revision="04-repo-tool" path="dependency-sample"/>
-  <project name="KioKrofovitch/dependency-sample-library" remote="github" path="dependency-sample-library"/>
+  <project name="KioKrofovitch/dependency-sample-library" remote="github" revision="02-git-submodules" path="dependency-sample-library"/>
 </manifest>
